@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #ede4c5;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+header nav li{
+    text-decoration: none;
+    list-style: none;
+}
